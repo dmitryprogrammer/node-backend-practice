@@ -1,0 +1,10 @@
+{
+  "colours": true,
+  "inspect": "3000",
+  "execMap": {
+    "ts": "ts-node"
+  },
+  "watch": [
+    "./src/main.ts"
+  ]
+}

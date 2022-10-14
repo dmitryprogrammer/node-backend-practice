@@ -1,0 +1,15 @@
+{
+  "buildOptions": {
+    "verbose": true
+  },
+  "compilerOptions": {
+    "target": "ES6",
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "sourceMap": true,
+    "outDir": "./dist"
+  },
+  "files": [
+    "./src/main.ts"
+  ]
+}
